@@ -1,0 +1,17 @@
+# Java / Maven
+backend/target/
+
+# Node / frontend
+frontend/node_modules/
+frontend/dist/
+
+# IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
+
+# Docs — keep README.md only, exclude every other markdown file
+*.md
+!README.md
